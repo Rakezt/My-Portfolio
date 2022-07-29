@@ -3,3 +3,12 @@
 body{
     font-family: Montserrat, sans-serif;
 }
+h1{
+    color: green;
+}
+#lib-header{
+    color:grey;
+}
+.para{
+    color:pink;
+}
