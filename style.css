@@ -103,6 +103,7 @@ hr{
     text-align: center;
 }
 .ow{
+    border-radius: 1rem;
     background-color: var(--off-white);
 }
 /**footer**/
