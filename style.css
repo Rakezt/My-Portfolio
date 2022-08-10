@@ -30,6 +30,7 @@ hr{
     max-width: 800px;
     margin:auto;
 }
+
 /**links**/
 .link{  
     text-decoration: none;
@@ -126,3 +127,4 @@ hr{
 .footer ul{
     padding-inline-start: 0;
 }
+
