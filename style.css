@@ -123,6 +123,7 @@ hr{
     color: white;
     border-top-right-radius: 2rem;
     box-shadow: -5px -10px var(--dark-grey);
+    margin-top: 1rem;
 }
 .footer .link{
     color:white;
