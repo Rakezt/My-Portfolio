@@ -116,6 +116,18 @@ hr{
     border-radius: 1rem;
     background-color: var(--off-white);
 }
+
+.float-left{
+    text-align: left;
+}
+.manu{
+    
+    width: 250px;
+}
+.float-mid{
+    text-align: center;
+}
+
 /**footer**/
 .footer{
     background-color: var(--primary-color);
