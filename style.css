@@ -150,4 +150,10 @@ hr{
 .footer ul{
     padding-inline-start: 0;
 }
+.skill{
+    border: 2px solid var(--primary-color);
+    padding: 0.3rem;
+    margin: 0.3rem;
+    width: 2.5rem;
+}
 
