@@ -124,6 +124,9 @@ hr{
     
     width: 250px;
 }
+.coc{
+    width: 400px;
+}
 .float-mid{
     text-align: center;
 }
@@ -156,4 +159,9 @@ hr{
     margin: 0.3rem;
     width: 2.5rem;
 }
-
+.mark{
+    background-color: var(--dark-grey);
+    color: var(--off-white);
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+}
