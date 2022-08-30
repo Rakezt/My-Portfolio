@@ -157,7 +157,14 @@ hr{
     border: 2px solid var(--primary-color);
     padding: 0.3rem;
     margin: 0.3rem;
-    width: 2.5rem;
+    width: 5rem;
+    display: inline-block;    
+}
+.skill-img{
+    width: 2rem;
+    display: block;
+    margin: auto;
+       
 }
 .mark{
     background-color: var(--dark-grey);
