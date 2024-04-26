@@ -81,6 +81,10 @@ hr {
   box-shadow: 5px 10px var(--dark-grey);
 }
 
+.nav-brand {
+  padding-top: 15px;
+  font-size: 56px;
+}
 .navigation .nav-brand {
   font-weight: bold;
   text-align: left;
@@ -177,14 +181,18 @@ hr {
   border: 2px solid var(--primary-color);
   padding: 0.3rem;
   margin: 0.3rem;
-  width: 5rem;
+  width: calc((100%-6rem) / 5);
   display: inline-block;
 }
 
 .skill-img {
   width: 2rem;
+  height: 2rem;
   display: block;
   margin: auto;
+}
+.big {
+  width: 7rem;
 }
 
 .mark {
@@ -192,4 +200,8 @@ hr {
   color: var(--light-grey);
   padding: 0.3rem;
   border-radius: 0.3rem;
+}
+.notice {
+  color: red;
+  font-style: italic;
 }
